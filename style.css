@@ -1,0 +1,125 @@
+.duan {
+  margin: 15px;
+}
+
+.region {
+  border: solid 1px;
+  padding: 10px;
+}
+
+.textside {
+  text-align: justify;
+  font-size: 18px;
+}
+
+.textside h2,
+h1 {
+  text-align: center;
+}
+
+.oo1 {
+  background-color: cyan;
+}
+
+.oo2 {
+  background-color: #f9c4ba;
+}
+
+.oo3 {
+  background-color: #f9c4ba;
+}
+
+.container1 {
+  padding: 5px;
+  text-align: center;
+  background-color: cyan;
+}
+
+.container2 {
+  background-color: #fdf5f4;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+tr {
+  display: flex;
+}
+
+td {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  border: darkcyan 1px;
+  border-radius: 20px;
+  padding: 15px;
+}
+
+.data {
+  background-color: #f28076;
+  display: flex;
+  flex-direction: row; /* Xếp hình và chữ theo cột */
+}
+
+.data img {
+  margin-right: 30px;
+  width: 150px;
+  height: 250px;
+  border-radius: 5px;
+}
+
+.orong {
+  width: 100px;
+}
+
+.text-introduce {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.boximg {
+  display: flex;
+  flex-direction: row;
+  background-color: #fdf5f4;
+}
+
+.box1 {
+  width: 830px;
+  padding: 5px;
+}
+
+.above {
+  margin-right: 20px;
+  width: 400px;
+  height: 300px;
+}
+.under {
+  margin-top: 30px;
+  margin-right: 20px;
+  width: 820px;
+  height: 300px;
+}
+
+.imgabove {
+  display: flex;
+  flex-direction: row;
+}
+
+video {
+  height: 630px;
+  width: 400px;
+  margin-left: 30px;
+}
+
+.comment {
+  padding: 15px;
+  background-color: #f28076;
+}
+
+.foot {
+  background-color: #fae0c7;
+  font-size: 17px;
+}
